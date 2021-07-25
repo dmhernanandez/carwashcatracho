@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anata\\Source\\Repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN.Android\\CarWashCatrachoHN.Android.csproj": {}
+    "C:\\Users\\anata\\source\\repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN.Android\\CarWashCatrachoHN.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anata\\Source\\Repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN.Android\\CarWashCatrachoHN.Android.csproj": {
+    "C:\\Users\\anata\\source\\repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN.Android\\CarWashCatrachoHN.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anata\\Source\\Repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN.Android\\CarWashCatrachoHN.Android.csproj",
+        "projectUniqueName": "C:\\Users\\anata\\source\\repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN.Android\\CarWashCatrachoHN.Android.csproj",
         "projectName": "CarWashCatrachoHN.Android",
-        "projectPath": "C:\\Users\\anata\\Source\\Repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN.Android\\CarWashCatrachoHN.Android.csproj",
+        "projectPath": "C:\\Users\\anata\\source\\repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN.Android\\CarWashCatrachoHN.Android.csproj",
         "packagesPath": "C:\\Users\\anata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anata\\Source\\Repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN.Android\\obj\\",
+        "outputPath": "C:\\Users\\anata\\source\\repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\anata\\Source\\Repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN\\CarWashCatrachoHN.csproj": {
-                "projectPath": "C:\\Users\\anata\\Source\\Repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN\\CarWashCatrachoHN.csproj"
+              "C:\\Users\\anata\\source\\repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN\\CarWashCatrachoHN.csproj": {
+                "projectPath": "C:\\Users\\anata\\source\\repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN\\CarWashCatrachoHN.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\anata\\Source\\Repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN\\CarWashCatrachoHN.csproj": {
+    "C:\\Users\\anata\\source\\repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN\\CarWashCatrachoHN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anata\\Source\\Repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN\\CarWashCatrachoHN.csproj",
+        "projectUniqueName": "C:\\Users\\anata\\source\\repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN\\CarWashCatrachoHN.csproj",
         "projectName": "CarWashCatrachoHN",
-        "projectPath": "C:\\Users\\anata\\Source\\Repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN\\CarWashCatrachoHN.csproj",
+        "projectPath": "C:\\Users\\anata\\source\\repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN\\CarWashCatrachoHN.csproj",
         "packagesPath": "C:\\Users\\anata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anata\\Source\\Repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN\\obj\\",
+        "outputPath": "C:\\Users\\anata\\source\\repos\\carwashcatrachohn\\CarWashCatrachoHN\\CarWashCatrachoHN\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -5,7 +5,9 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="CarWashCatrachoHN.Views.LoginPage"
+              NavigationPage.HasNavigationBar="False" 
              Shell.NavBarIsVisible="False"
+             
              BackgroundImage="fondo.jpg">
 
     <ContentPage.Content>
@@ -22,7 +24,7 @@
             BackgroundColor="#F5F5F5F5"
             CornerRadius="15"
             HasShadow="True"
-            HeightRequest="440"
+            HeightRequest="550"
             Margin="10,20"
             HorizontalOptions="FillAndExpand">
 

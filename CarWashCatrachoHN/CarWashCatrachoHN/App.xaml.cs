@@ -14,7 +14,7 @@ namespace CarWashCatrachoHN
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new NavigationPage(new AppShell());
+            MainPage = new AppShell();
         }
 
         protected override void OnStart()

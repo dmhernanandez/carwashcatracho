@@ -15,12 +15,13 @@ namespace CarWashCatrachoHN.Views
         public LoginPage()
         {
             InitializeComponent();
-            this.BindingContext = new LoginViewModel();
+            BindingContext = new LoginViewModel();
         }
 
         private async void btnCrear_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new CrearUsuario());
+          
         }
     }
 }
